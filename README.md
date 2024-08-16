@@ -12,11 +12,6 @@ Welcome to my corner of the code world! I'm a passionate developer with a love f
 
 💻 Tech Stack:
 
-    Languages: Python, C, C++, Java, Shell Scripting
-    Web Development: Django, Flask, Vue.js, React.js, Node.js, Angular.js
-    Databases: SQL, MongoDB
-    Tools & Utilities: Linux Shell, Plotly, Git, Docker
-
 🔥 Projects & Achievements:
 
     Gro-Cart: A grocery store management application with automated stock and expiration management, developed with Flask. Scored a perfect S grade (10/10) at IIT Madras.
@@ -26,8 +21,7 @@ Welcome to my corner of the code world! I'm a passionate developer with a love f
 
 🎯 Let's Collaborate:
 
-    I’m always up for contributing to open-source projects or working on innovative web development and data science solutions. If you have a project or idea, let's make it happen!
-
+I’m always up for contributing to open-source projects or working on innovative web development and data science solutions. If you have a project or idea, let's make it happen!
 📬 Reach Out:
 
     Email: rishabhkirodiwal04@gmail.com
@@ -36,4 +30,4 @@ Welcome to my corner of the code world! I'm a passionate developer with a love f
 
 ⚡ Fun Fact:
 
-    I'm a coding enthusiast with a knack for cracking challenging problems, whether it's a tough algorithm or a real-world application.
+I'm a coding enthusiast with a knack for cracking challenging problems, whether it's a tough algorithm or a real-world application.
