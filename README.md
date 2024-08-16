@@ -1,32 +1,39 @@
-Hi there 👋
+Hi there, I'm Rishabh Saini! 👨‍💻
 
-I'm Rishabh Saini, a passionate software developer currently pursuing a B.S. in Data Science & Its Applications from IIT Madras and a B.Tech in Computer Science & Engineering from Rajasthan Technical University. My journey in technology has led me to work on exciting projects and internships, where I've honed my skills in web development, software engineering, and data science.
-🔭 I’m currently working on:
+Welcome to my corner of the code world! I'm a passionate developer with a love for crafting efficient and secure applications. Currently pursuing a dual education path in Data Science & Applications at IIT Madras and Computer Science & Engineering at Rajasthan Technical University, I'm constantly exploring new technologies and honing my coding skills.
+🚀 What I'm Building:
 
-    RhythmBox: A dynamic music streaming platform developed as part of my coursework at IIT Madras. Built using Flask, Vue.js, and SQLAlchemy, it features song liking, flagging, lyrics retrieval, and playlist management, with JWT authentication for secure access.
+    RhythmBox: A dynamic music streaming platform built with Flask, Vue.js, and SQLAlchemy. It features song liking, flagging, lyrics retrieval, and playlist management, secured with JWT authentication. This project was a highlight of my coursework at IIT Madras and showcases my full-stack development capabilities.
 
-🌱 I’m currently learning:
+🌱 What I'm Learning:
 
-    Advanced algorithms and their applications in solving real-world problems.
-    Modern web development frameworks and cloud-based deployment strategies.
+    Mastering advanced algorithms to solve complex problems.
+    Deep diving into modern web frameworks and cloud computing for scalable solutions.
 
-👯 I’m looking to collaborate on:
+💻 Tech Stack:
 
-    Open-source projects in web development, data science, or anything that drives innovation and learning.
+    Languages: Python, C, C++, Java, Shell Scripting
+    Web Development: Django, Flask, Vue.js, React.js, Node.js, Angular.js
+    Databases: SQL, MongoDB
+    Tools & Utilities: Linux Shell, Plotly, Git, Docker
 
-💬 Ask me about:
+🔥 Projects & Achievements:
 
-    Web Development (Flask, Django, Vue.js)
-    Python programming and algorithms
-    How to implement secure and scalable web applications
+    Gro-Cart: A grocery store management application with automated stock and expiration management, developed with Flask. Scored a perfect S grade (10/10) at IIT Madras.
+    TheSoulTalk: A Django-based blogging platform with interactive features like user following, comments, and role management.
+    Ranked 16th in a CodeChef Python contest with IIT Madras.
+    Winner of Code-Crunch and Second Runner-up in Gandhi-Code quiz by GFG at Rajasthan Technical University.
 
-📫 How to reach me:
+🎯 Let's Collaborate:
+
+    I’m always up for contributing to open-source projects or working on innovative web development and data science solutions. If you have a project or idea, let's make it happen!
+
+📬 Reach Out:
 
     Email: rishabhkirodiwal04@gmail.com
     LinkedIn: rishabhsaini04
     GitHub: rishisni
 
-😄 Pronouns: He/Him
-⚡ Fun fact:
+⚡ Fun Fact:
 
-    I ranked 16th in a CodeChef Python contest with IIT Madras and won several coding competitions at my university.
+    I'm a coding enthusiast with a knack for cracking challenging problems, whether it's a tough algorithm or a real-world application.
