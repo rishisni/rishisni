@@ -1,92 +1,66 @@
-# 👋 Hi, I'm Rishabh Saini! 👨‍💻
-*Software Engineer | Full-Stack Developer | Data Enthusiast*
+<div align="center">
 
-📍 Bengaluru, India | 📧 [rishabhkirodiwal04@gmail.com](mailto:rishabhkirodiwal04@gmail.com) | 🌐 [Portfolio](https://rishi-sni.vercel.app/) | 🐙 [GitHub](https://github.com/rishisni) | 🔗 [LinkedIn](https://www.linkedin.com/in/rishabhsaini04/)  
+# Rishabh Saini
+### Tech Lead & Full-Stack Architect
 
-I’m a passionate developer currently pursuing dual degrees:  
-- **B.S. in Data Science & Its Applications (Virtual)** – IIT Madras | **CGPA:** 7.1 | Present  
-- **B.Tech in Computer Science & Engineering** – Rajasthan Technical University | **CGPA:** 8.6 | 2025  
+*Building scalable multi-tenant SaaS & AI-driven ecosystems.*
 
-I specialize in building **efficient, scalable, and secure applications**, with hands-on experience in **full-stack development, multi-tenant systems, and AI-driven solutions**.
+[📍 Bengaluru, India](#) | [🔗 Portfolio](https://rishi-sni.vercel.app/) | [🐙 GitHub](https://github.com/rishisni) | [💼 LinkedIn](https://www.linkedin.com/in/rishabhsaini04/)
 
 ---
 
-## 💼 Work Experience
+![Visitor Count](https://komarev.com/ghpvc/?username=rishisni&style=flat-square&color=blue)
+![GitHub Top Language](https://img.shields.io/github/languages/top/rishisni/rishisni?style=flat-square&color=007ACC)
 
-### JadeCaps Technologies Pvt Ltd – Bengaluru, India  
-**Software Developer** | Jan 2025 – Present  
-- Designed a **scalable multi-tenant PMS** using **Database-per-Tenant strategy (MySQL)** for full data isolation and tenant-specific scaling.  
-- Built a **dynamic Tenant Dashboard** with **React & Redux Toolkit**, visualizing property counts, bookings, and revenue trends.  
-- Developed a **centralized SuperAdmin Portal** using **Node.js & React** to manage tenants, access control, and configurations.  
-- Integrated **OpenAI ChatGPT API** to enhance guest interactions and automate AI-driven suggestions.  
-- Engineered a **robust React web app** with Redux Toolkit & Axios, backend in Node.js, including **audit logging** using PostgreSQL and custom middleware.
+</div>
 
-### The Quote Store – Noida, India (Virtual)  
-**Software Intern** | June – July 2023  
-- Developed **TheSoulTalk**, a Django-based blogging platform fostering a vibrant literary community.  
-- Implemented **user-following, likes, comments, and role management**, creating a dynamic, interactive experience.  
-- Designed an **intuitive UI** for effortless post creation, editing, and deletion.
+### 🔭 Currently Focused On
+* **Engineering:** Refining multi-tenant architecture & SaaS performance.
+* **Learning:** Advanced algorithms & Cloud infrastructure optimization.
+* **Building:** AI-driven computer vision solutions for municipal compliance.
 
 ---
 
-## 🚀 Major Projects
-
-### 🎶 RhythmBox – IIT Madras (Course Project)  
-- Developed a **full-stack music streaming platform** with **Flask (backend)**, **Vue.js (frontend)**, and **SQLAlchemy (database)**.  
-- Implemented **song liking, flagging, lyrics retrieval, and playlist management** via RESTful APIs.  
-- Secured platform with **JWT authentication** and **role-based access control**.
-
-### 🛒 Gro-Cart  
-- **Flask-based grocery store management system** with automated stock & expiration tracking.  
-- Achieved **S grade (10/10)** at IIT Madras.
-
-### 📝 TheSoulTalk  
-- **Django blogging platform** with interactive features: user following, comments, likes, and **role-based access control**.
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishisni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-**Programming Languages:** Python | C | C++ | Java | Shell Scripting | JavaScript  
-**Frameworks & Libraries:** Django | Flask | React.js | Vue.js | Node.js | Express.js | HTML | CSS | Bootstrap  
-**Databases & Tools:** SQLAlchemy | SQLite | PostgreSQL | MongoDB | Redis | Docker | REST APIs | GitHub | Jupyter Notebook | Plotly | Postman  
-**Architecture & Patterns:** Multi-Tenant Architecture (Database per Tenant) | SuperAdmin Portals | Audit Logging | Role-Based Dashboards  
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,django,flask,mysql,postgresql,mongodb,docker,aws,linux,git,postman" />
+</p>
 
 ---
 
-## 📚 Relevant Coursework
+### 💼 Experience
+**Tech Lead @ JadeCaps Technologies** | *Jan 2025 – Present*
+* Architected scalable **multi-tenant PMS** with **Database-per-Tenant** isolation.
+* Spearheaded **SuperAdmin portals** & dynamic tenant dashboards.
+* Integrated **Generative AI** workflows for automated guest support.
 
-- **Algorithms & Theory:** Data Structures & Algorithms, Design & Analysis of Algorithms, Probability & Statistics  
-- **Systems & Databases:** DBMS, Operating Systems, Modern Application Development, System Commands  
-
----
-
-## 🏆 Achievements
-
-- 🥇 **16th Rank** in CodeChef Python Contest at IIT Madras  
-- 🏅 **Winner** of Code-Crunch & **Second Runner-Up** in Gandhi-Code quiz by GFG at RTU  
+**Software Intern @ The Quote Store** | *Jun 2023 – July 2023*
+* Engineered **TheSoulTalk**, a Django-based platform for community engagement.
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced algorithms for complex real-world problem-solving  
-- Cloud computing and modern web frameworks for **scalable applications**  
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:  
-- **Open-source contributions**  
-- Innovative **web development** and **data science projects**  
-
-💡 Got an idea? Let’s build it together!  
+### 🚀 Featured Projects
+* **Smart Recovery Assistant (SRA):** Mobile-first, 7-screen automated recovery workflow.
+* **RhythmBox:** Full-stack streaming platform (Vue.js + Flask + SQL) with role-based security.
+* **Gro-Cart:** High-efficiency management system (10/10 grade project).
 
 ---
 
-## 📬 Connect with Me
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=flat-square&logo=vercel&logoColor=white)](https://rishi-sni.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:rishabhkirodiwal04@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&lo)]()
+### 📬 Let's Connect
+I'm always open to discussing architecture and SaaS innovation.
+
+<a href="mailto:rishabhkirodiwal04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rishabhsaini04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+*Designed with passion by Rishabh Saini*
+</div>
